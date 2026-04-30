@@ -1,4 +1,4 @@
-package quest;
+package quest.controller;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

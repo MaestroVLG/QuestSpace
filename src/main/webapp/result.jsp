@@ -5,7 +5,7 @@
     <title>Результат</title>
 </head>
 <body>
-    <h1>${sessionScope.result}</h1>
+    <h1>${sessionScope.result}</h   1>
     <a href="hello">Начать заново</a>
 
     <hr>
